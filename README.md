@@ -37,10 +37,10 @@ This experiment demonstrates cloud-based data persistence using Flutter and Fire
 
 | Field | Value |
 |---|---|
-| Name | PRIYA JENITA J |
-| Registration Number | URK23CS7012 |
+| Name | Dhanya Maria |
+| Registration Number | URK23CS7007 |
 | Department | CSE(AIML) |
-| Marks | 94 |
+| Marks | 98 |
 
 ## Procedure
 1. Create a Flutter application.
